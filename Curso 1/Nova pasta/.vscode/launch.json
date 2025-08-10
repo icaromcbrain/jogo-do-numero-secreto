@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "msedge",
+      "request": "launch",
+      "name": "Abrir Edge com DevTools",
+      "url": "${file}", // Usa o arquivo atualmente aberto
+      "webRoot": "${workspaceFolder}"
+    }
+  ]
+}
